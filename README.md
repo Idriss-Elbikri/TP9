@@ -1,3 +1,9 @@
+# Capture du projet
+
+<img width="960" height="512" alt="1" src="https://github.com/user-attachments/assets/83c01c9b-a30e-4a64-a5d2-81addb4c0196" />
+<img width="960" height="475" alt="2" src="https://github.com/user-attachments/assets/0cf4bbf7-66ce-4f2b-add1-f835f7be6b43" />
+<img width="960" height="512" alt="3" src="https://github.com/user-attachments/assets/038d24cc-054a-4ba5-a6aa-c0b5f2c4d852" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
